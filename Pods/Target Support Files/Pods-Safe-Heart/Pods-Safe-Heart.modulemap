@@ -1,0 +1,6 @@
+framework module Pods_Safe_Heart {
+  umbrella header "Pods-Safe-Heart-umbrella.h"
+
+  export *
+  module * { export * }
+}
